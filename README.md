@@ -21,7 +21,7 @@ A sleek, dark-themed browser-based time utility featuring a Clock, Timer, Alarm,
 - Animated circular countdown ring
 - Urgent pulse animation in the last 10 seconds
 - Audio alert when the timer ends
-- Pause, resume, and reset support
+- Pause, resume,and reset support
 
 ### 🔔 Alarm
 - Set multiple alarms with custom labels
