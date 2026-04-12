@@ -84,7 +84,7 @@ online_alarm_clock/
 - CSS-only animations for smooth performance
 - No frameworks, no dependencies — pure HTML/CSS/JS
 
----
+--
 
 ## 📄 License
 
