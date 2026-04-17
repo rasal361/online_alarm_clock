@@ -1,6 +1,6 @@
 # ⏰ CHRONO — Online Time Suite
 
-A sleek, dark-themed browser-based time utility featuring a Clock, Timer, Alarm, and Stopwatch — all in one lightweight HTML file with zero dependencies.
+A sleek, dark-themed browser-based time utility featuring a Clock, Timer, Alarm, and Stopwatch — all in one lightweight HTML file with zero dependencies. 
 
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white)
